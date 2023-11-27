@@ -59,3 +59,16 @@ Before running the application, make sure to set up the following environment va
 - **GUEST_USERNAME:** guest
 
 - **GUEST_PASSWORD:** guest
+
+### Database Setup Instructions
+
+- **Install MongoDB:**
+
+Download and install MongoDB from MongoDB Download Center.
+Start MongoDB Server:
+
+After installing MongoDB, start the MongoDB server by following the instructions provided in the MongoDB documentation or by executing the appropriate command in your terminal.
+Configure Environment Variables:
+
+Rename the .env.sample file to .env.
+Open the .env file and update the environment variables.
