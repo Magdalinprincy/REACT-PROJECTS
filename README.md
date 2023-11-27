@@ -74,4 +74,4 @@ Before running the application, make sure to set up the following environment va
 
 - **Rename the .env.sample file to .env.**
 
--**Open the .env file and update the environment variables.**
+- **Open the .env file and update the environment variables.**
